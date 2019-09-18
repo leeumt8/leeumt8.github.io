@@ -113,4 +113,23 @@ nav a:hover {
 #imgtxt1 #imgtxt2 #imgtxt3 {
     position: absolute;
     float: left;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+#inputboxes {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #cccccc;
+}
+input {
+    width: 950px;
+    padding: 12px 20px;
+    margin: 10px 10px;
+    box-sizing: border-box;
+  }
+#messagebox {
+    padding: 60px 20px;
+}
+#submitbutton {
+    width: 25%;
+    background-color: #4aaaa5;
+    margin-left: 15px;
 }
