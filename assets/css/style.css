@@ -96,3 +96,21 @@ nav a:hover {
     background-color: grey;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+#portfoliopics {
+    position: relative;
+    margin: 15px;
+}
+#imgbox1 {
+    float:left;
+    position: relative;
+    margin-right: 15px;
+}
+#imgbox2 {
+    float: left;
+    position: relative;
+    margin-right: 15px;
+}
+#imgtxt1 #imgtxt2 #imgtxt3 {
+    position: absolute;
+    float: left;
+}
